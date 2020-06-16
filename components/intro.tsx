@@ -7,7 +7,7 @@ const Intro = () => {
         TS-ZEN
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Learn to love the type!{" "}
+        Aprende a amar el tipado!{" "}
       </h4>
     </section>
   );
